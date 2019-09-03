@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title> MARVEL Movie Scene Locator  - Azure Maps </title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content=" Marvel Movie Scene Locator Sample." />
+    <meta name="keywords" content="map, gis, API, SDK, tutorials, store locator, locator, coffee, contoso, clustering" />
+    <meta name="author" content="Shuoqi Wang-Microsoft Azure Maps" />
+
+    <!-- Add references to the Azure Maps Map control JavaScript and CSS files. -->
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" type="text/css" />
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script>
+
+    <!-- Add a reference to the Azure Maps Services Module JavaScript file. -->
+    <script src="https://atlas.microsoft.com/sdk/javascript/service/2/atlas-service.min.js"></script>
+
+    <!-- Add references to the store locator JavaScript and CSS files. -->
+    <link rel="stylesheet" href="MovieLocator.css" type="text/css" />
+    <script src="MovieLocator.js"></script>
+</head>
+<body>
+    <header>
+        <img src="images/Avenger.png" />
+        <span> ——  MARVEL MOVIE SCENE LOCATOR  —— </span>
+    </header>
+    <main>
+        <div class="searchPanel">
+            <div>
+                <input id="searchTbx" type="search" placeholder="Search a Marvel movie " />
+                <button id="searchBtn" title="Search"></button>
+            </div>
+        </div>
+
+        <div id="listPanel"></div>
+
+        <div id="myMap"></div>
+
+        <button id="myLocationBtn" title="My Location"></button>
+    </main>
+</body>
+</html>
