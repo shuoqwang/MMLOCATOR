@@ -1,0 +1,15 @@
+Movie	AddressLine	City	Country	Latitude	Longitude	FormalName	END
+avenger1	Grand Central Terminal	New York	US	40.752827	-73.977467	Avengers	END
+avenger2	Aosta	Italy	IT	45.73732	7.317585	Avengers: Age of Ultron	END
+avenger3	Ansley Park	Atlanta	US	33.797671	-84.378672	Avengers: Infinity War	END
+avenger4	National Park of Maranh_o	Brzail	BR	-2.505687	-44.260869	Avengers: End Game	END
+captainamerica3	Lake View Cemetery	Seattle	US	47.633995	-122.315021	Captain America: Civil War	END
+spiderman1	Queensboro Bridge	New York	US	40.756679	-73.95393	Spider-Man: Homecoming	END
+blackpanther	Bokot Farm	Georgia 	US	33.560719	-84.587114	Black Panther	END
+shield	Atrisco Heritage Academy High School	New Mexico	US	35.022259	-106.748496	Shield	END
+antman	Golden Gate Bridge	San Francisco	US	37.819463	-122.478522	Ant-Man	END
+ironman 	Unknown	Las Vegas	US	36.193512	-115.23303	Iron Man	END
+ironman2	Randy's Donuts	Los Angeles	US	33.961836	-118.370377	Iron Man 2	END
+ironman3	Unknown	North Carolina	US	35.285146	-78.159187	Iron Man 3	END
+							
+							
